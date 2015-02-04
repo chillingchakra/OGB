@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Growing | The Always Yet to Be Named Blog]]></title>
+  <link href="http://http://chillingchakra.github.io/categories/growing/atom.xml" rel="self"/>
+  <link href="http://http://chillingchakra.github.io/"/>
+  <updated>2015-02-03T23:05:25-08:00</updated>
+  <id>http://http://chillingchakra.github.io/</id>
+  <author>
+    <name><![CDATA[Nt¿]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This Is the Second With Pow and Rake]]></title>
+    <link href="http://http://chillingchakra.github.io/blogs/2015/02/01/this-is-the-second-with-pow-and-rake/"/>
+    <updated>2015-02-01T03:46:19-08:00</updated>
+    <id>http://http://chillingchakra.github.io/blogs/2015/02/01/this-is-the-second-with-pow-and-rake</id>
+    <content type="html"><![CDATA[<p>It’s a sad day, here I was thinking I would go against the hipster grain that is learning Ruby and Rails and perhaps learn a counter-culture language like Perl or Haskell and then find a web framework with them but it seems Octopress has sent me into Ruby with how easy everything is to configure.</p>
+
+<p>I shall experiment and we will have to see. I’m also going to have a look at Drupal as Linux Journal seems crazy excited about its very existence.</p>
+
+<p>This Markdown craze isn’t something I’m crazy about either. I have to go and learn a whole new micro HTML-esque thing that lets me format my posts just the way I want.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://http://chillingchakra.github.io/sitemap.xml 

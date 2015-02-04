@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Css | The Always Yet to Be Named Blog]]></title>
+  <link href="http://http://chillingchakra.github.io/categories/css/atom.xml" rel="self"/>
+  <link href="http://http://chillingchakra.github.io/"/>
+  <updated>2015-02-03T23:05:25-08:00</updated>
+  <id>http://http://chillingchakra.github.io/</id>
+  <author>
+    <name><![CDATA[Nt¿]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Proceed With CSS]]></title>
+    <link href="http://http://chillingchakra.github.io/blogs/2015/02/02/proceed-with-css/"/>
+    <updated>2015-02-02T01:22:12-08:00</updated>
+    <id>http://http://chillingchakra.github.io/blogs/2015/02/02/proceed-with-css</id>
+    <content type="html"><![CDATA[<p>I proceed with the internal development of the site. This page has been moved to slash blog, the root site at simply slash will be for honing my css development skills with my original idea.</p>
+
+<p><img src="/images/voila1.png" title="&lsquo;Scanned and Made Background Myself by Hand&rsquo; &lsquo;Now to Work on the CSS a bit&rsquo;" ></p>
+]]></content>
+  </entry>
+  
+</feed>

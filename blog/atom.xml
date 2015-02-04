@@ -4,7 +4,7 @@
   <title><![CDATA[The Always Yet to Be Named Blog]]></title>
   <link href="http://http://chillingchakra.github.io/atom.xml" rel="self"/>
   <link href="http://http://chillingchakra.github.io/"/>
-  <updated>2015-02-03T23:05:25-08:00</updated>
+  <updated>2015-02-04T14:59:46-08:00</updated>
   <id>http://http://chillingchakra.github.io/</id>
   <author>
     <name><![CDATA[Nt¿]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Failed. But Getting Back Up]]></title>
-    <link href="http://http://chillingchakra.github.io/blogs/2015/02/03/failed-but-getting-back-up/"/>
+    <link href="http://http://chillingchakra.github.io/plate/2015/02/03/failed-but-getting-back-up/"/>
     <updated>2015-02-03T20:31:16-08:00</updated>
-    <id>http://http://chillingchakra.github.io/blogs/2015/02/03/failed-but-getting-back-up</id>
+    <id>http://http://chillingchakra.github.io/plate/2015/02/03/failed-but-getting-back-up</id>
     <content type="html"><![CDATA[<p>Unfortunately due to the weirdness that is git, I have failed to move forward. I&rsquo;ve accidentally erased a number of my source files and YAML config files and as a result have had to start from scratch.</p>
 
 <p>I will see how all this goes but until then I offer up an image for your viewing pleasure.</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Proceed With CSS]]></title>
-    <link href="http://http://chillingchakra.github.io/blogs/2015/02/02/proceed-with-css/"/>
+    <link href="http://http://chillingchakra.github.io/plate/2015/02/02/proceed-with-css/"/>
     <updated>2015-02-02T01:22:12-08:00</updated>
-    <id>http://http://chillingchakra.github.io/blogs/2015/02/02/proceed-with-css</id>
+    <id>http://http://chillingchakra.github.io/plate/2015/02/02/proceed-with-css</id>
     <content type="html"><![CDATA[<p>I proceed with the internal development of the site. This page has been moved to slash blog, the root site at simply slash will be for honing my css development skills with my original idea.</p>
 
 <p><img src="http://http://chillingchakra.github.io/images/voila1.png" title="Scanned and Made Background Myself by Hand" alt="Now to Work on the CSS a bit"></p>
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[This Is the Second With Pow and Rake]]></title>
-    <link href="http://http://chillingchakra.github.io/blogs/2015/02/01/this-is-the-second-with-pow-and-rake/"/>
+    <link href="http://http://chillingchakra.github.io/plate/2015/02/01/this-is-the-second-with-pow-and-rake/"/>
     <updated>2015-02-01T03:46:19-08:00</updated>
-    <id>http://http://chillingchakra.github.io/blogs/2015/02/01/this-is-the-second-with-pow-and-rake</id>
+    <id>http://http://chillingchakra.github.io/plate/2015/02/01/this-is-the-second-with-pow-and-rake</id>
     <content type="html"><![CDATA[<p>It’s a sad day, here I was thinking I would go against the hipster grain that is learning Ruby and Rails and perhaps learn a counter-culture language like Perl or Haskell and then find a web framework with them but it seems Octopress has sent me into Ruby with how easy everything is to configure.</p>
 
 <p>I shall experiment and we will have to see. I’m also going to have a look at Drupal as Linux Journal seems crazy excited about its very existence.</p>

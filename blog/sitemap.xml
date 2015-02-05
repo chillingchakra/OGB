@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://http://chillingchakra.github.io/plate/2015/02/04/testing-various-plugins-facebook/</loc>
+    <lastmod>2015-02-04T16:59:29-08:00</lastmod>
+  </url>
+  <url>
     <loc>http://http://chillingchakra.github.io/plate/2015/02/03/failed-but-getting-back-up/</loc>
     <lastmod>2015-02-03T20:31:16-08:00</lastmod>
   </url>
@@ -14,10 +18,10 @@
   </url>
   <url>
     <loc>http://http://chillingchakra.github.io/blog/archives/</loc>
-    <lastmod>2015-02-04T15:06:32-08:00</lastmod>
+    <lastmod>2015-02-04T17:17:49-08:00</lastmod>
   </url>
   <url>
     <loc>http://http://chillingchakra.github.io/</loc>
-    <lastmod>2015-02-04T15:06:32-08:00</lastmod>
+    <lastmod>2015-02-04T17:17:49-08:00</lastmod>
   </url>
 </urlset>

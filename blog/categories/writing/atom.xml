@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Writing | The Always Yet to Be Named Blog]]></title>
   <link href="http://http://chillingchakra.github.io/categories/writing/atom.xml" rel="self"/>
   <link href="http://http://chillingchakra.github.io/"/>
-  <updated>2015-02-04T17:21:58-08:00</updated>
+  <updated>2015-02-04T17:40:42-08:00</updated>
   <id>http://http://chillingchakra.github.io/</id>
   <author>
     <name><![CDATA[Nt¿]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing Various Plugins - Facebook]]></title>
-    <link href="http://http://chillingchakra.github.io/plate/2015/02/04/testing-various-plugins-facebook/"/>
+    <link href="http://http://chillingchakra.github.io/blogs/2015/02/04/testing-various-plugins-facebook/"/>
     <updated>2015-02-04T16:59:29-08:00</updated>
-    <id>http://http://chillingchakra.github.io/plate/2015/02/04/testing-various-plugins-facebook</id>
+    <id>http://http://chillingchakra.github.io/blogs/2015/02/04/testing-various-plugins-facebook</id>
     <content type="html"><![CDATA[<p>Sadly most of the better things that pop into my head end up on Facebook, a walled off garden. Although people can &ldquo;follow&rdquo; your public posts, things are mostly limited to your &ldquo;friends&rdquo;. Which is okay because most of my things have an attachment of my own personality to them and perhaps a public person which does not know me personally will take it significantly differently than a person I do personally know (Facebook &ldquo;friends&rdquo;).</p>
 
 <p>I sort of occasionally take a swing at Twitter, but I don&rsquo;t really care for it very much. The 140 character limit feels like enslavement by some sadist who simply doesn&rsquo;t want anybody to be able to rant. Nobody comes off as angry because they are limited to 140 character and as a result, no other person reading the first persons stuff is inspired by their message to cause reform of some sort. So it&rsquo;s mostly for humor, comedians seem to do well with it.</p>
@@ -27,16 +27,7 @@ There isn&rsquo;t really a lot of interaction on Instagram though, it&rsquo;s ju
 
 <p>So some of my better stuff is on Facebook, as such, I found a neat plugin that should allow for an embed and will proceed to try it out below and then RAKE that shit.</p>
 
-<p><div id='fb-root'></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = '//connect.facebook.net/en_US/all.js#xfbml=1';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class='fb-post' data-href='<a href="https://www.facebook.com/tselkove/posts/10154755269440475">https://www.facebook.com/tselkove/posts/10154755269440475</a> &#8216;></div>
-</p>
+<p>{% facebook_embedded_post <a href="https://www.facebook.com/tselkove/posts/10154755269440475">https://www.facebook.com/tselkove/posts/10154755269440475</a> %}</p>
 ]]></content>
   </entry>
   

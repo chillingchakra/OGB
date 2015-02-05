@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Git | The Always Yet to Be Named Blog]]></title>
   <link href="http://http://chillingchakra.github.io/categories/git/atom.xml" rel="self"/>
   <link href="http://http://chillingchakra.github.io/"/>
-  <updated>2015-02-04T17:21:58-08:00</updated>
+  <updated>2015-02-04T17:40:42-08:00</updated>
   <id>http://http://chillingchakra.github.io/</id>
   <author>
     <name><![CDATA[Nt¿]]></name>
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[Failed. But Getting Back Up]]></title>
-    <link href="http://http://chillingchakra.github.io/plate/2015/02/03/failed-but-getting-back-up/"/>
+    <link href="http://http://chillingchakra.github.io/blogs/2015/02/03/failed-but-getting-back-up/"/>
     <updated>2015-02-03T20:31:16-08:00</updated>
-    <id>http://http://chillingchakra.github.io/plate/2015/02/03/failed-but-getting-back-up</id>
+    <id>http://http://chillingchakra.github.io/blogs/2015/02/03/failed-but-getting-back-up</id>
     <content type="html"><![CDATA[<p>Unfortunately due to the weirdness that is git, I have failed to move forward. I&rsquo;ve accidentally erased a number of my source files and YAML config files and as a result have had to start from scratch.</p>
 
 <p>I will see how all this goes but until then I offer up an image for your viewing pleasure.</p>
 
-<p><img src="/images/dmcatolietpaper.png"></p>
+<p>{% img /images/dmcatolietpaper.png %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[The Always Yet to Be Named Blog]]></title>
   <link href="http://http://chillingchakra.github.io/atom.xml" rel="self"/>
   <link href="http://http://chillingchakra.github.io/"/>
-  <updated>2015-02-07T01:57:37-08:00</updated>
+  <updated>2015-02-07T15:19:45-08:00</updated>
   <id>http://http://chillingchakra.github.io/</id>
   <author>
     <name><![CDATA[Nt¿]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sassy Quagarama]]></title>
+    <link href="http://http://chillingchakra.github.io/plate/2015/02/07/sassy-quagarama/"/>
+    <updated>2015-02-07T15:06:19-08:00</updated>
+    <id>http://http://chillingchakra.github.io/plate/2015/02/07/sassy-quagarama</id>
+    <content type="html"><![CDATA[<p>I’m going to be trying to get a grip on this SASS er SCSS thing from here on in. I feel it would be helpful. I have some limited understanding of CSS already. I’ve pretty much gotten past toying around with the YAML config file that comes with octopress, although I may add a sidebar aside of my own. The rake file doesn’t seem to really help me in any way, so I suppose all thats left is tweaking the appearance of everything by playing around with the Sassafrass Sass infrastructure.</p>
+
+<p>This not drinking thing is surprisingly refreshing. I feel good and have the spirit and perseverance to take in knowledge like I couldn’t when hungover. My hair is growing into something spectacular, especially since I changed where the part is. I sort of have a Willliam H Macy going on right now, circa Shameless more than say Fargo. I don’t remember what the fuck he had going on in Fargo.</p>
+
+<p>I downloaded some book on self-diagnosing handwriting problems, I wish to improve my cursive penmanship and send more letters. I like writing letters on actual paper and would like to more. I may even join a penpal collective of some sort, although I find the idea of asking random strangers how their days are rather dull.</p>
+
+<p>I have some things on my agenda such as beginning a regular workout schedule to take place everyday on my wooden floor, I also have 3 days left of the pain that is community service, but I wish to get them out of the way. Soon I will begin working on getting my car back. Mass money is of course a precursor.</p>
+
+<p>I’ve also been experimenting with my kombucha, I tried to add less than the reccomended amount of sugar but this backfired, so I shall just add the reccomended amount as not to have it come out tasting like sour water. I’ve also been chopping up blueberries and throwing them in the finished product and letting it stand in the fridge for 3 days and then drinking that, its’ wonderful. I think I shall try mandarin peels next as they have a great effect on the digestive system which should compliment the benefits of kombucha greatly.</p>
+
+<div id='fb-root'></div>
+
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = '//connect.facebook.net/en_US/all.js#xfbml=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class='fb-post' data-href='https://www.facebook.com/photo.php?fbid=10154687750835475&set=a.10154492703260475.1073741827.794115474 '></div>
+
+
+<p><br></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing Various Plugins - Facebook]]></title>
@@ -42,7 +76,7 @@ There isn&rsquo;t really a lot of interaction on Instagram though, it&rsquo;s ju
 <div class='fb-post' data-href='https://www.facebook.com/tselkove/posts/10154755269440475 '></div>
 
 
-
+<p><br></p>
 ]]></content>
   </entry>
   

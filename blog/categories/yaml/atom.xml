@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Css | The Always Yet to Be Named Blog]]></title>
-  <link href="http://http://chillingchakra.github.io/categories/css/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Yaml | The Always Yet to Be Named Blog]]></title>
+  <link href="http://http://chillingchakra.github.io/categories/yaml/atom.xml" rel="self"/>
   <link href="http://http://chillingchakra.github.io/"/>
   <updated>2015-02-07T15:19:45-08:00</updated>
   <id>http://http://chillingchakra.github.io/</id>
@@ -40,17 +40,6 @@
 </p>
 
 <p><br></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Proceed With CSS]]></title>
-    <link href="http://http://chillingchakra.github.io/plate/2015/02/02/proceed-with-css/"/>
-    <updated>2015-02-02T01:22:12-08:00</updated>
-    <id>http://http://chillingchakra.github.io/plate/2015/02/02/proceed-with-css</id>
-    <content type="html"><![CDATA[<p>I proceed with the internal development of the site. This page has been moved to slash blog, the root site at simply slash will be for honing my css development skills with my original idea.</p>
-
-<p><img src="/images/voila1.png" title="&lsquo;Scanned and Made Background Myself by Hand&rsquo; &lsquo;Now to Work on the CSS a bit&rsquo;" ></p>
 ]]></content>
   </entry>
   

@@ -179,44 +179,6 @@ There isn&rsquo;t really a lot of interaction on Instagram though, it&rsquo;s ju
   </ul>
 </section>
 
-<section>
-  <h1>About Me</h1>
-  <div id="twitter-profile" style="margin-top:0.5em;">
-    <p>
-      <strong>Nt¿</strong> 
-      (<a href="http://twitter.com/welcomeback_rr">@welcomeback_rr</a>)
-    </p>
-    <p>Here goeth the description govna.</p>
-  </div>
-  <script type="text/javascript">
-    $(function(){
-        var container = $('#twitter-profile'),
-            user = "welcomeback_rr";
-        
-        function parseTwLinks(s) {
-          var twUrl = "http://www.twitter.com/"
-          s = s.replace(/ (@([\w]+))/g, function(match, p1, p2) {
-              return " <a href='"+twUrl+p2+"'>"+p1+"</a>"
-          }).replace(/ (#([\w]+))/g, function(match, p1, p2) {
-              return " <a href='"+twUrl+"#!/search?q=%23"+p2+"'>"+p1+"</a>"
-          })
-          return s
-        }
-
-        $.ajax({
-            url: "http://api.twitter.com/1/users/show.json?include_entities=false&screen_name="+user+"&callback=?"
-          , type: 'GET'
-          , dataType: 'jsonp'
-          , error: function (err) { $('#twitter-profile').addClass('error');  }
-          , success: function(data) {
-              container.html('<img class="left" src="http://api.twitter.com/1/users/profile_image/'+user+'.json?size=bigger" alt="@'+user+'"><p><strong>'+data.name+'</strong> (<a href="http://twitter.com/'+user+'">@'+user+'</a>)<br/>'+data.location+'</p><p>'+parseTwLinks(data.description)+'</p>');
-            }
-        })
-      });
-  </script>
-</section>
-
-
 <section class="lastfm">
 <h1>Recently Scrobbled</h1>
 <style type="text/css">
@@ -273,6 +235,44 @@ There isn&rsquo;t really a lot of interaction on Instagram though, it&rsquo;s ju
 </section>
 
 
+<section>
+  <h1>About Me</h1>
+  <div id="twitter-profile" style="margin-top:0.5em;">
+    <p>
+      <strong>Nt¿</strong> 
+      (<a href="http://twitter.com/welcomeback_rr">@welcomeback_rr</a>)
+    </p>
+    <p>Here goeth the description govna.</p>
+  </div>
+  <script type="text/javascript">
+    $(function(){
+        var container = $('#twitter-profile'),
+            user = "welcomeback_rr";
+        
+        function parseTwLinks(s) {
+          var twUrl = "http://www.twitter.com/"
+          s = s.replace(/ (@([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+p2+"'>"+p1+"</a>"
+          }).replace(/ (#([\w]+))/g, function(match, p1, p2) {
+              return " <a href='"+twUrl+"#!/search?q=%23"+p2+"'>"+p1+"</a>"
+          })
+          return s
+        }
+
+        $.ajax({
+            url: "http://api.twitter.com/1/users/show.json?include_entities=false&screen_name="+user+"&callback=?"
+          , type: 'GET'
+          , dataType: 'jsonp'
+          , error: function (err) { $('#twitter-profile').addClass('error');  }
+          , success: function(data) {
+              container.html('<img class="left" src="http://api.twitter.com/1/users/profile_image/'+user+'.json?size=bigger" alt="@'+user+'"><p><strong>'+data.name+'</strong> (<a href="http://twitter.com/'+user+'">@'+user+'</a>)<br/>'+data.location+'</p><p>'+parseTwLinks(data.description)+'</p>');
+            }
+        })
+      });
+  </script>
+</section>
+
+
   
 </aside>
 
@@ -280,8 +280,7 @@ There isn&rsquo;t really a lot of interaction on Instagram though, it&rsquo;s ju
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - Nt¿ -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  A License To Do Whatever You Want. Well you don&#8217;t need one now do you?
 </p>
 
 </footer>
